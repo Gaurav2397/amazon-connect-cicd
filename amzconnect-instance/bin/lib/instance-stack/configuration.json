@@ -39,6 +39,10 @@
     {
       "Name": "ACME_Finance",
       "Description": "Queue for Finance"
+    },
+    {
+      "Name": "ACME_Distribution",
+      "Description": "Queue for Distribution"
     }
   ]
 }
