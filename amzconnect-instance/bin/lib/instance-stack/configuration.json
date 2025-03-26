@@ -41,8 +41,8 @@
       "Description": "Queue for Finance"
     },
     {
-      "Name": "ACME_Distribution",
-      "Description": "Queue for Distribution"
+      "Name": "ACME_Distributions",
+      "Description": "Queue for Distributions"
     }
   ]
 }
