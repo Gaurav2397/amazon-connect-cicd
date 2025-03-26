@@ -1,6 +1,6 @@
 {
   "instanceAlias": "TecnomicCICDProd",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceStorageBucketName": "connect-aaaxxx",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
