@@ -1,6 +1,6 @@
 {
   "instanceAlias": "connectCICDTecnomictest",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceStorageBucketName": "connect-aaayyy",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
