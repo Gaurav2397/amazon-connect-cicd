@@ -1,5 +1,5 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
+  "instanceAlias": "TecnomicCICDProd",
   "instanceStorageBucketName": "connect-aaazzz",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
