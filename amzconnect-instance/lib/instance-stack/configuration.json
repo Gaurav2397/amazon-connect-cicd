@@ -43,6 +43,10 @@
     {
       "Name": "ACME_Distributions",
       "Description": "Queue for Distributions"
+    },
+    {
+      "Name": "ACME_Customers",
+      "Description": "Queue for customers"
     }
   ]
 }
