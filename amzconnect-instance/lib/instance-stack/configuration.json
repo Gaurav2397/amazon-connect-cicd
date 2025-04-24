@@ -47,6 +47,10 @@
     {
       "Name": "ACME_Customers",
       "Description": "Queue for customers"
+    },
+    {
+      "Name": "ACME_Operations",
+      "Description": "Queue for Operations"
     }
   ]
 }
