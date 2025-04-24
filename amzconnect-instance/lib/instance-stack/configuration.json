@@ -45,11 +45,7 @@
       "Description": "Queue for Distributions"
     },
     {
-      "Name": "ACME_Customers",
-      "Description": "Queue for customers"
-    },
-    {
-      "Name": "ACME_Operations",
+      "Name": "ACME_Operations_new_queue",
       "Description": "Queue for Operations"
     }
   ]
