@@ -5,15 +5,15 @@
         "branch": "develop",
         "enabled": true,
         "account": "083222563557",
-        "region": ["us-east-1"],
+        "region": ["us-west-2"],
         "app": "ACME"
     },
     {
         "env": "staging",
         "branch": "staging",
         "enabled": true,
-        "account": "083222563557",
-        "region": ["us-east-1"],
+        "account": "228907232523",
+        "region": ["us-west-2"],
         "app": "ACME"
     },
     {
@@ -21,7 +21,7 @@
         "branch": "main",
         "enabled": true,
         "account": "083222563557",
-        "region": ["us-east-1"],
+        "region": ["us-west-2"],
         "app": "ACME"
     }]
 }
